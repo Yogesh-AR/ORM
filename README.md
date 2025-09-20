@@ -58,4 +58,4 @@ Include the screenshot of your admin page.
 ![alt text](<Screenshot 2025-09-20 155533.png>)
 
 ## RESULT
-Thus the program for creating movies database using ORM hass been executed successfully
+Thus the program for creating cars database using ORM hass been executed successfully
